@@ -8,5 +8,4 @@ else:
     print("Roots are imaginary")
 root1= (-b +(d**0.5))/2*a
 root2= (-b -(d**0.5))/2*a
-#print(f'Roots are {root1} \n {root2}')
 print("Roots are",root1,"\n",root2)
