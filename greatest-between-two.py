@@ -4,6 +4,6 @@ if(x>y):
     print(x,"is greater")
 if(y>x):
     print(y,"is greater")
-else:
+if(x==y):
     print("Numbers are equal")
     
